@@ -124,7 +124,7 @@ Machine-Learning-With-Python/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Machine-Learning-With-Python.git
+git clone https://github.com/bicky055/Python-and-ML-.git
 cd Machine-Learning-With-Python
 
 # Open any Jupyter notebook
