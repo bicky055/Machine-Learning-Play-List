@@ -146,7 +146,7 @@ jupyter notebook
 
 For questions or collaboration:
 **Email**: [bickyjha24@gmail.com](bickyjha24@gmail.com)
-**GitHub**: [bicky055]([https://github.com/bicky055/])
+**GitHub**: [(https://github.com/bicky055/)]([https://github.com/bicky055/])
 
 ---
 
