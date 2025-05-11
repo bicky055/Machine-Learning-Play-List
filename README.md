@@ -77,6 +77,14 @@ Machine-Learning-With-Python/
 * Random Forest
 * Support Vector Machines (SVM)
 * Naive Bayes
+* Ensemble Techniques( Bagging and Boosting )
+* Bagging
+*  1. Random Forest
+* Boosting Techniques
+* 1. AdaBoosting
+  2. Gradient Boosting
+  3. Extreme Gradient Boosting(XGBoosting)
+  
 
 ### 🔹 Unsupervised Learning Algorithms
 
