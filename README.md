@@ -70,13 +70,22 @@ Machine-Learning-With-Python/
 
 ### 🔹 Supervised Learning Algorithms
 
-* Linear Regression
-* Logistic Regression
-* K-Nearest Neighbors (KNN)
-* Decision Trees
-* Random Forest
-* Support Vector Machines (SVM)
-* Naive Bayes
+* Regression Algorithms
+* 1. Linear Regression
+  2. Ridge(l2) Regression
+  3. Lasso(l1) Regression
+  4. ElasticNet Regression
+  5. K-Nearest Neighbors (KNN)
+  6. Decision Trees Regression
+  7. Support Vector Machines (SVM) Regression
+  8. Random Forest Regressor
+* Classification Algorithms 
+* 1. Logistics Regression
+  2. Naive Bayes
+  3. K-Nearest Neighbors (KNN)
+  4. Decision Trees Classifier
+  5. Support Vector Classifier(SVC)
+  6. Random Forest Classifier 
 * Ensemble Techniques( Bagging and Boosting )
 * Bagging
 *  1. Random Forest
